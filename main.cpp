@@ -35,7 +35,7 @@ void checkinput(int input)
 			}
 		default:
 			{
-				
+				exit(0);
 			}
 	}
 	return;
